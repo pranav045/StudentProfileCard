@@ -1,4 +1,4 @@
-# Student Profile Card with Expand/Collapse in Jetpack Compose
+# Student Profile Card
 
 ## 📖 Overview
 This Android project demonstrates how to build a **student profile card** using **Jetpack Compose** with smooth expand/collapse animations. It highlights the use of `AnimatedVisibility`, `animateColorAsState`, and Material3 components to create an interactive and modern UI.
